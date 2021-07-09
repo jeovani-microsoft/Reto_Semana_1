@@ -13,6 +13,8 @@ Aquí te dejo un video donde se explica un poco mejor. Bienvenidos!!!
 
 [¿Que es Windows Azure?](https://youtu.be/x-8LDoZksns)
 
+___
+# Contenido
 
 [01-Introducción a los aspectos básicos de Azure](https://github.com/jeovani-microsoft/Reto_Semana_1/tree/main/01-Introducci%C3%B3n%20a%20los%20aspectos%20b%C3%A1sicos%20de%20Azure)
 
@@ -20,6 +22,7 @@ Aquí te dejo un video donde se explica un poco mejor. Bienvenidos!!!
 
 [03.- Descripción de los componentes principales de la arquitectura de Azure](https://github.com/jeovani-microsoft/Reto_Semana_1/tree/main/03.-%20Descripci%C3%B3n%20de%20los%20componentes%20principales%20de%20la%20arquitectura%20de%20Azure)
 
+___
 
 # Integrantes del equipo:
 
