@@ -12,7 +12,7 @@ Azure se encarga de rentarte sus servicios para que tu no te tengas que preocupa
 
 Aquí te dejo un video donde se explica un poco mejor. Bienvenidos!!!
 
-[¿Que es Windows Azure?](https://youtu.be/x-8LDoZksns)
+<a href="https://youtu.be/x-8LDoZksns" target="_blank">¿Que es Windows Azure?</a>
 
 ___
 ## Contenido
