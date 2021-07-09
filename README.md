@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/hero_reto.png" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/hero_reto.png" alt="drawing" width="100%"/>
 </div>
 
 
