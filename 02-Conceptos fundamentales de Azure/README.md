@@ -31,7 +31,7 @@ Anteriormente las organizaciones hacían una inversión de dinero en infraestruc
 Microsoft se dio cuenta que podría reducir este costo a las organizaciones promoviendo la inversión en servicios o productos a medida que se usaran (OpEX).
 Viéndolo desde este punto de vista las organizaciones se ahorrarían además del costo de hardware, también el personal, la seguridad requerida, la infraestructura adecuada, etc. Con la Nube lo único que se debe preocupar la organización es saber que servicios esta usando y cuando pagarlos.
 
-<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_on_premise.jpg"  width="50%"/>
+<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2-on_premise.jpg"  width="50%"/>
 
 
 ## ¿Que servicio de la Nube es lo mejor para la empresa?
@@ -44,7 +44,9 @@ PaaS (Plataforma como servicio) -> El proveedor de la Nube administra las maquin
 
 SaaS (Software como servicio) -> El proveedor de la Nube administrara todos los aspectos junto con los recursos de la aplicación. Es dirigido a empresas que deseen solo proveer sus servicios al publico ya sea con un modelo de suscripcion o dependiendo cuanto usen el software.
 
-<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_Saas.png"  width="50%"/>
+<center>
+<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_Saas.jpg"  width="50%"/>
+</center>
 
 
 Como conclusión podemos decir que la Nube ayuda de una forma u otra en esta época de crecimiento tecnológico y como es de suponerse el desarrollo es lo principal para estar siempre actualizados, es por eso que la Nube nos ayuda a ahorrarnos tiempo y dinero para solo enfocarnos en traer soluciones al mundo en el que estamos viviendo. La informática sin servidor será una realidad muy próxima a la que todos nosotros estaremos viviendo.
