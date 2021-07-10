@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/hero_reto.png" alt="drawing" width="100%"/>
+<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/hero_reto.png" width="100%"/>
 </div>
 
 
@@ -21,7 +21,7 @@ ___
 
 [02-Conceptos fundamentales de Azure](https://github.com/jeovani-microsoft/Reto_Semana_1/tree/main/02-Conceptos%20fundamentales%20de%20Azure)
 
-[03.- Descripción de los componentes principales de la arquitectura de Azure](https://github.com/jeovani-microsoft/Reto_Semana_1/tree/main/03.-%20Descripci%C3%B3n%20de%20los%20componentes%20principales%20de%20la%20arquitectura%20de%20Azure)
+[03-Descripción de los componentes principales de la arquitectura de Azure](https://github.com/jeovani-microsoft/Reto_Semana_1/tree/main/03.-%20Descripci%C3%B3n%20de%20los%20componentes%20principales%20de%20la%20arquitectura%20de%20Azure)
 
 ___
 
@@ -32,27 +32,27 @@ ___
 <center>
   <div class="card text-center border-info">
     <div class="card-body">
-      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Vanessa_circ.png" alt="drawing" width="100"/>
+      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Vanessa_circ.png" width="100"/>
       <h2 class="card-title">Vanessa Ortiz</h2>
       <p class="card-text">**************</p>
     </div>
     <div class="card-body">
-      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/joyce.png" alt="drawing" width="100"/>
+      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/joyce.png" width="100"/>
       <h2 class="card-title">Joyce Aguilar</h2>
       <p class="card-text">**************</p>
     </div>
     <div class="card-body">
-      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Jovas.png" alt="drawing" width="100"/>
+      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Jovas.png" width="100"/>
       <h2 class="card-title">Jeovani Morales</h2>
       <p class="card-text">Ingeniero en Computación</p>
     </div>
     <div class="card-body">
-      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Jordan.png" alt="drawing" width="100"/>
+      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Jordan.png" width="100"/>
       <h2 class="card-title">Jordan Yesid</h2>
       <p class="card-text">***************</p>
     </div>
     <div class="card-body">
-      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/JovasJuriar.png" alt="drawing" width="100"/>
+      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/JovasJuriar.png" width="100"/>
       <h2 class="card-title">Juriar Abirzabit Torres</h2>
       <p class="card-text">********************</p>
     </div>
