@@ -12,7 +12,7 @@ Existen ventajas que ofrece la Nube a comparación con entornos físicos (On-Pre
 
 -	Disponibilidad: Microsoft tiene un compromiso que de acuerdo con el contrato SLA, este nos asegura que tendremos una experiencia continua sin tiempo de inactividad perceptible. Como por ejemplo por cuestiones de un desastre natural un centro de la Nube se haya colapsado, nuestros datos seguirán activos y podemos hacer uso de ellos de forma usual.
 
-<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_dispo.png"  width="50%"/>
+<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_dispo.png"  width="50%" style="text-align:center;"/>
 
 -	Elasticidad: Nuestras aplicaciones siempre estarán actualizadas gracias a que la Nube aplica escalado automático, por esta razón no existirá la preocupación de saber si tenemos los recursos necesarios para realizar las funciones que necesitemos.
 
