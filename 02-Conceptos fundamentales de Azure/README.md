@@ -10,21 +10,26 @@ Existen tres tipos de modelos de nube y los usamos para cada caso dependiendo de
 
 Existen ventajas que ofrece la Nube a comparación con entornos físicos (On-Premise). Estas ventajas pueden llevar a hacer soluciones mas rápidas, seguras y sobre todo menos costosas ya que solo pagamos por los servicios que usamos, algunas de estas ventajas son:
 
--	Disponibilidad: Microsoft tiene un compromiso que de acuerdo con el contrato SLA, este nos asegura que tendremos una experiencia continua sin tiempo de inactividad perceptible. Como por ejemplo por cuestiones de un desastre natural un centro de la Nube se haya colapsado, nuestros datos seguirán activos y podemos hacer uso de ellos de forma usual.
+-	**Disponibilidad:** Microsoft tiene un compromiso que de acuerdo con el contrato SLA, este nos asegura que tendremos una experiencia continua sin tiempo de inactividad perceptible. Como por ejemplo por cuestiones de un desastre natural un centro de la Nube se haya colapsado, nuestros datos seguirán activos y podemos hacer uso de ellos de forma usual.
 
 <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_dispo.png"  width="50%" style="text-align:center;"/>
 
--	Elasticidad: Nuestras aplicaciones siempre estarán actualizadas gracias a que la Nube aplica escalado automático, por esta razón no existirá la preocupación de saber si tenemos los recursos necesarios para realizar las funciones que necesitemos.
+-	**Elasticidad:** Nuestras aplicaciones siempre estarán actualizadas gracias a que la Nube aplica escalado automático, por esta razón no existirá la preocupación de saber si tenemos los recursos necesarios para realizar las funciones que necesitemos.
 
--	Agilidad: La plataforma de Microsoft Azure nos permite implementar y configurar los recursos basados en la Nube a medida que nosotros lo necesitemos. Las necesidades cambian constantemente, Azure lo hace a la par con nosotros.
+-	**Agilidad:** La plataforma de Microsoft Azure nos permite implementar y configurar los recursos basados en la Nube a medida que nosotros lo necesitemos. Las necesidades cambian constantemente, Azure lo hace a la par con nosotros.
 
--	Distribución geográfica: Microsoft Azure tiene centros de datos regionales en todo el mundo lo que garantiza que siempre tendrá el mejor rendimiento ya sea que el centro de datos este en su región o decida implementarlos en otra localidad.
+-	**Distribución geográfica:** Microsoft Azure tiene centros de datos regionales en todo el mundo lo que garantiza que siempre tendrá el mejor rendimiento ya sea que el centro de datos este en su región o decida implementarlos en otra localidad.
 
 <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_dist_geo.png"  width="50%"/>
 
--	Recuperación ante desastres: Por cualquier motivo que se presente, existe el servicio de copia de seguridad basado en la Nube nos ayudará a mantenernos tranquilos sabiendo que nuestra información estará segura y disponible.
+-	**Recuperación ante desastres:** Por cualquier motivo que se presente, existe el servicio de copia de seguridad basado en la Nube nos ayudará a mantenernos tranquilos sabiendo que nuestra información estará segura y disponible.
 
 <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_recu.png"  width="50%"/>
+
+<img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/par_regiones.gif"  width="50%"/>
+
+
+
 
 ## ¿On-Premise vs Nube (En costos)?
 Anteriormente las organizaciones hacían una inversión de dinero en infraestructura física (CapEX) pero con el paso de los años esta tecnología se volvía lenta o simplemente no era apto para las necesidades actuales.
@@ -37,12 +42,12 @@ Viéndolo desde este punto de vista las organizaciones se ahorrarían además de
 ## ¿Que servicio de la Nube es lo mejor para la empresa?
 La Nube tiene diferentes servicios para cada necesidad de las empresas, pero principalmente son tres, a continuación los servicios.
 
-IaaS (Infraestructura como servicio) -> Un proveedor de la Nube mantendra el hardware actualizado pero quien debe de ver que sistema operativo y la configuracion de red sera meramente responsabilidad de la empresa.
+**IaaS (Infraestructura como servicio) ->** Un proveedor de la Nube mantendra el hardware actualizado pero quien debe de ver que sistema operativo y la configuracion de red sera meramente responsabilidad de la empresa.
 Lo bueno de este servicio es que podemos administrar de mejor manaera en donde se van a procesar los recursos pero teniendo el control sobre ello. Es ideal para una empresa que tenga On-Premise pero requiera potencializar los recursos sin tener que hacer un gasto excesivo para obtener mayor computo.
 
-PaaS (Plataforma como servicio) -> El proveedor de la Nube administra las maquinas virtuales, los recursos de red y tambien implementa las aplicaciones en el entorno de hospedaje administrado. No es necesario adquirir hardware y tampoco tener personal propio para la configuracion del servidor. Es ideal para una empresa que no tenga conocimientos tecnicos avanzados sobre servidores y solo desee aprovechar la tecnologia para el desarrollo de aplicaciones o soluciones requeridas.
+**PaaS (Plataforma como servicio) ->** El proveedor de la Nube administra las maquinas virtuales, los recursos de red y tambien implementa las aplicaciones en el entorno de hospedaje administrado. No es necesario adquirir hardware y tampoco tener personal propio para la configuracion del servidor. Es ideal para una empresa que no tenga conocimientos tecnicos avanzados sobre servidores y solo desee aprovechar la tecnologia para el desarrollo de aplicaciones o soluciones requeridas.
 
-SaaS (Software como servicio) -> El proveedor de la Nube administrara todos los aspectos junto con los recursos de la aplicación. Es dirigido a empresas que deseen solo proveer sus servicios al publico ya sea con un modelo de suscripcion o dependiendo cuanto usen el software.
+**SaaS (Software como servicio) ->** El proveedor de la Nube administrara todos los aspectos junto con los recursos de la aplicación. Es dirigido a empresas que deseen solo proveer sus servicios al publico ya sea con un modelo de suscripcion o dependiendo cuanto usen el software.
 
 <center>
 <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/2_Saas.jpg"  width="50%"/>
