@@ -2,7 +2,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/cloud.png"  width="30"/> ¿Qué es la informática de la nube?
+## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/cloud.png"  width="50"/> ¿Qué es la informática de la nube?
 
 Es la entrega de servicios informáticos a través de Internet, se conoce como la nube. Estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia.
 
@@ -16,35 +16,35 @@ Dicho de otro modo, la informática en la nube es una forma de alquilar potencia
 
 En lugar de mantener las CPU y el almacenamiento en un centro de datos, se alquilan durante el tiempo que sea necesario. El proveedor de nube se encarga de mantener la infraestructura subyacente por usted. La nube permite resolver rápidamente los desafíos empresariales más difíciles
 
-## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="30"/> ¿Qué es Azure?
+## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="50"/> ¿Qué es Azure?
 Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros
 
 Con la ayuda de Azure, tendrá todo lo que necesita para compilar su próxima gran solución. En la tabla siguiente se enumeran algunas de las ventajas que proporciona Azure, para qué inventar con un objetivo sea más sencillo.
 
-## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="30"/> ¿Qué puedo hacer con Azure?
+## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="50"/> ¿Qué puedo hacer con Azure?
 Azure proporciona más de cien servicios que permiten hacer todo tipo de cosas: desde ejecutar las aplicaciones existentes en máquinas virtuales hasta explorar nuevos paradigmas de software, como bots inteligentes y realidad mixta.
 
 Muchos equipos comienzan a explorar la nube mediante la migración de sus aplicaciones existentes a máquinas virtuales que se ejecutan en Azure. Si bien este es un buen comienzo, la nube es mucho más que "un lugar diferente donde ejecutar las máquinas virtuales
 
-## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="30"/> ¿Cómo funciona Azure?
+## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="50"/> ¿Cómo funciona Azure?
 
 https://www.youtube.com/watch?v=KXkBZCe699A
 
 Azure es una tecnología de virtualización donde ya no es necesario tener un hardware físico para hacer tareas del alto rendimiento, como guardar datos  de millones de personas en una red conectada entre sí conocida como la nube, donde al fallar una no se vería afectada la información por que hay máquinas llamadas servidores que respaldan a cada servidor que hay en una región ,gracias a esto miles de empresas usan la nube para procesar miles de datos tantos empresariales y públicos sin necesidad de una infra estructura como tal.
 
-## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="30"/> ¿Qué es Azure Portal?
+## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png"  width="50"/> ¿Qué es Azure Portal?
 *Azure Portal* es una consola unificada basada en web que proporciona una alternativa a las herramientas de línea de comandos. Con *Azure Portal*, se puede administrar la suscripción de Azure mediante una interfaz gráfica de usuario. Usted puede:
 
 * Compilar, administrar y supervisar todo, desde aplicaciones web sencillas hasta complejas implementaciones en la nube.
 * Crear paneles personalizados para una vista organizada de recursos.
 * Configurar opciones de accesibilidad para una experiencia óptima.
 
-##  <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png" width="30"/> ¿Qué es Azure Marketplace?
+##  <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/azure.png" width="50"/> ¿Qué es Azure Marketplace?
 Azure Marketplace facilita la conexión entre los usuarios y los partners de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, optimizados para ejecutarse en Azure. Los clientes de Azure Marketplace pueden buscar, probar, comprar y aprovisionar aplicaciones y servicios de cientos de los principales proveedores de servicios. Todas las soluciones y los servicios están certificados para ejecutarse en Azure.
 
 Ahora se verán con más detalle las categorías que se usan con más frecuencia:
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/process.png" width="30"/> Proceso
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/process.png" width="50"/> Proceso
 **Azure Virtual Machines:** Máquinas virtuales (VM) Windows o Linux hospedadas en Azure.
 
 **Azure Virtual Machine Scale Sets:** Escalado de máquinas virtuales Windows o Linux hospedadas en Azure.
@@ -58,7 +58,7 @@ Ahora se verán con más detalle las categorías que se usan con más frecuencia
 **Azure Functions:** Un servicio de procesos sin servidor y controlado por eventos
 
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/red.png" width="30"/> Redes
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/red.png" width="50"/> Redes
 **Azure Virtual Network:** Conecta máquinas virtuales a conexiones de red privada virtual (VPN) entrantes.
 
 **Azure Load Balancer:** Equilibra las conexiones entrantes y salientes a aplicaciones o puntos de conexión de servicio.
@@ -84,7 +84,7 @@ Ahora se verán con más detalle las categorías que se usan con más frecuencia
 **Azure Virtual WAN:** Crea una red de área extensa (WAN) unificada que conecta sitios locales y remotos.
 
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/almacenamiento.png" width="30"/> Almacenamiento
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/almacenamiento.png" width="50"/> Almacenamiento
 **Azure Blob Storage:** Servicio de almacenamiento para objetos muy grandes, como archivos de vídeo o mapas de bits.
 
 **Azure File storage:** Recursos compartidos de archivos que puede administrar como un servidor de archivos y acceder a ellos del mismo modo.
@@ -100,7 +100,7 @@ Todos estos servicios comparten varias características:
 * Administración y control del mantenimiento y de cualquier problema crítico que pueda surgir.
 * Accesibilidad desde cualquier parte del mundo a través de HTTP o HTTPS.
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/mobile.png" width="30"/> Móvil
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/mobile.png" width="50"/> Móvil
 Con Azure, los desarrolladores pueden crear servicios de back-end móviles para aplicaciones iOS, Android y Windows de forma rápida y sencilla. Las características que solían tardar tiempo y aumentaban los riesgos del proyecto, como la incorporación del inicio de sesión corporativo y la posterior conexión a recursos locales como SAP, Oracle, SQL Server y SharePoint, ahora se incluyen con facilidad.
 
 Estas son otras características de este servicio:
@@ -112,7 +112,7 @@ Estas son otras características de este servicio:
 
 
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/db.png"  width="30"/> Bases de datos
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/db.png"  width="50"/> Bases de datos
 **Azure Cosmos DB:** Base de datos distribuida globalmente que admite opciones NoSQL.
 
 **Azure SQL Database:** Base de datos relacional totalmente administrada con escalado automático, inteligencia integral y seguridad sólida.
@@ -131,7 +131,7 @@ Estas son otras características de este servicio:
 
 **Azure Database for MariaDB:** Base de datos relacional MariaDB totalmente administrada y escalable con alta disponibilidad y seguridad.
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/web.png" width="30"/>  Web
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/web.png" width="50"/>  Web
 **Azure App Service:** Creación rápida de aplicaciones en la nube eficaces basadas en web.
 
 **Azure Notification Hubs:** Envíe notificaciones push a cualquier plataforma desde cualquier back-end.
@@ -146,7 +146,7 @@ Cree e implemente rápidamente aplicaciones web críticas a escala.
 **Servicio Azure SignalR:** Agregue funcionalidades web en tiempo real con facilidad.
 ___
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/iot.png" width="30"/> Internet de las cosas (IoT)
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/iot.png" width="50"/> Internet de las cosas (IoT)
 Los usuarios pueden tener acceso a más información que nunca. Los asistentes digitales personales llevaron a los smartphones y ahora existen relojes inteligentes, termostatos inteligentes e incluso frigoríficos inteligentes. Los equipos estaban a la orden del día. Ahora, Internet permite que cualquier objeto capaz de conectarse tenga acceso a valiosa información. Esta capacidad de los dispositivos de obtener y luego retransmitir información para el análisis de datos se conoce como IoT (Internet de las cosas).
 
 Muchos servicios pueden ayudar e impulsar soluciones de un extremo a otro para IoT en Azure.
@@ -160,7 +160,7 @@ IoT Edge: Servicio totalmente administrado que permite insertar los modelos de a
 
 
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/macro.png" width="30"/> Macrodatos
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/macro.png" width="50"/> Macrodatos
 Los datos se presentan en cualquier formato y tamaño. Cuando hablamos sobre macrodatos, nos referimos a grandes volúmenes de datos. Los datos de los sistemas del tiempo, sistemas de comunicaciones, investigación genómica, plataformas de imágenes y muchos otros escenarios generan cientos de gigabytes de datos. Esta cantidad de datos hace que resulte difícil analizar y tomar decisiones
 Azure Synapse Analytics
 
@@ -170,7 +170,7 @@ HDInsight de Azure: Procese grandes cantidades de datos con los clústeres admin
 
 Azure Databricks: Integre este servicio de análisis colaborativo basado en Apache Spark con otros servicios de macrodatos en Azure.
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/IA.png" width="30"/> INTELIGENCIA ARTIFICIAL
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/IA.png" width="50"/> INTELIGENCIA ARTIFICIAL
 En el contexto de la informática en la nube, la inteligencia artificial se basa en una amplia gama de servicios, donde el principal es el aprendizaje automático. El aprendizaje automático es una técnica de ciencia de datos que permite a los equipos utilizar datos existentes para prever tendencias, resultados y comportamientos futuros. Mediante el aprendizaje automático, los equipos aprenden sin necesidad de programarlos explícitamente.
 Azure Machine Learning Service: Entorno basado en la nube que se puede usar para desarrollar, entrenar, probar, implementar, administrar y realizar un seguimiento de los modelos de aprendizaje automático. Puede generar y ajustar automáticamente un modelo. Le permite comenzar a entrenar en el equipo local y luego escalar horizontalmente a la nube.
 Azure ML Studio: Área de trabajo visual colaborativa donde puede compilar, probar e implementar soluciones de aprendizaje automático mediante algoritmos de aprendizaje automático predefinidos y módulos de control de datos.
@@ -184,14 +184,14 @@ Bing Search: Agregue las Bing Search API a sus aplicaciones y aproveche la capac
 Procesamiento de lenguaje natural: permite que las aplicaciones procesen lenguaje natural con scripts precompilados, evalúen opiniones y aprendan a reconocer lo que quieren los usuarios.
 
 
-### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/dev.png" width="30"/> DevOps
+### <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/dev.png" width="50"/> DevOps
 DevOps reúne a individuos, procesos y tecnología mediante la automatización de la entrega de software para ofrecer un valor continuo a los usuarios. Con Azure DevOps se puede crear, compilar y publicar canalizaciones que proporcionan integración, entrega e implementación continuas a las aplicaciones.
 
 Azure DevOps: Use herramientas de colaboración de desarrollo como canalizaciones de alto rendimiento, repositorios Git privados gratuitos, paneles Kanban configurables y completas pruebas de carga basadas en la nube y automatizadas. Anteriormente conocido como Visual Studio Team Services.
 
 Azure DevTest Labs: Cree rápidamente entornos de Windows y Linux a petición para probar o realizar demostraciones de las aplicaciones directamente desde las canalizaciones de implementación.
 
-## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/cuenta.png" width="30"/> Cuentas de Azure
+## <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/iconos/cuenta.png" width="50"/> Cuentas de Azure
 
 Para crear y usar los servicios de Azure, necesita una suscripción de Azure. Al completar los módulos de Microsoft Learn, la mayoría de las veces se crea una suscripción temporal de forma automática, que se ejecuta en un entorno denominado espacio aislado de Microsoft Learn. Cuando trabaje con aplicaciones y necesidades empresariales propias, tendrá que crear una cuenta de Azure y se creará una suscripción de forma automática. Después de crear una cuenta de Azure, puede crear suscripciones adicionales. Por ejemplo, es posible que la empresa use una única cuenta de Azure para el negocio y suscripciones independientes para los departamentos de desarrollo, marketing y ventas.
 
