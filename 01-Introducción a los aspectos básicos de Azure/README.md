@@ -157,11 +157,6 @@ Los usuarios pueden tener acceso a más información que nunca. Los asistentes d
 
 Muchos servicios pueden ayudar e impulsar soluciones de un extremo a otro para IoT en Azure.
 
-# ??????
-Nombre del servicio
-
-Descripción
-
 **IoT Central:** Solución global de software como servicio (SaaS) de IoT totalmente administrada que facilita la conexión, la supervisión y la administración de los recursos de IoT a escala.
 
 **Azure IoT Hub:** Centro de mensajería que proporciona comunicaciones y supervisión seguras entre millones de dispositivos de IoT.
