@@ -43,12 +43,12 @@ ___
       <h2 class="card-title">Jeovani Morales</h2>
     </div>
     <div class="card-body">
-      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Jordan.png" width="100"/>
-      <h2 class="card-title">Jordan Yesid</h2>
-    </div>
-    <div class="card-body">
       <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Juriar.png" width="100"/>
       <h2 class="card-title">Juriar Abirzabit Torres</h2>
+    </div>
+    <div class="card-body">
+      <img src="https://raw.githubusercontent.com/jeovani-microsoft/Reto_Semana_1/main/assets/members/Jordan.png" width="100"/>
+      <h2 class="card-title">Jordan Yesid</h2>
     </div>
   </div>
 </center>
